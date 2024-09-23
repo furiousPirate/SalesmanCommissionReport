@@ -1,4 +1,5 @@
 Project Description
+
 This project is developed using .NET Core 8 and Angular 17, utilizing ADO.NET for data access. It implements various features and best practices for modern web applications, ensuring a robust, user-friendly experience.
 
 Features
